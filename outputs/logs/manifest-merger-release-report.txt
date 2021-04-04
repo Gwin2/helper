@@ -1,0 +1,528 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+MERGED from [com.android.support:design:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/55853a858d0cfbc06eed739b2ffb3ae9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/fc934ae77d77ae46749355fd8df187e0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a844322a50972e078388c91ffd19eae2/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4dbccfebff860f86efc28d0af653468e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:2:1-13:12
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4aa9080c03c877d4e03900eae997af6c/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/3fc43c4df3ee503f33f581b14cbe16b1/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/1225ceef0a5d83b41e77e4678e3a1c95/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/28d5b6635fe040f5d36970c96d38438d/AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:transition:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/d79571d5f62000ce41cd86cc9c63616f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/295bce1f408a2e091bd7df54a7cf518a/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/d8313a469f0d3a8798970e2b8a406b27/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:16:1-35:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:16:1-29:12
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:16:1-47:12
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/6b85b0e2c5e70a58084466b47bf210d2/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/be266670fee7d02c0a0a9bab2876112c/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/955d4c2e186013ef8fd2d75eac4ce817/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/d9215a97064f953226af868d353a29bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b636115cd917b812fe8dd1dd5b82754b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9431508a650d705339e4bba7c1e5241d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ce0e3ea8dff3ff84636a44562b0e45/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7515a6b6cd985290574e34c9c399b800/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6b94a9eb59b4fa3faa3679f36d7e679f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/b14c31823abd80510c995545515172f1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/83c4ae13b30e0dec8d823d82caf00328/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/e58426779e316d26b87f37975e3182ea/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/b25daa8bfde004cc6cbc8f8d130823d0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/40b89459e0ba22c9dd32c4372af607b6/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/e742e56ab54a934e8528188aaae042e1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/843244a5a3e6599bef465e9cf91e3013/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/64a3f8269019d7425e2fe1b0d126f319/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/cd9a76501adb725080f5e65fa85d0853/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dec30691f8dd0b32c7e705494baff4ac/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/44f06696ad7dc16d7a9b76185ccd6ff9/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/7816308cf0059dc3ef825e7b04e01b45/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/2c9059d5b80201bee984b1c01e6089b5/AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87ea6cc2ae64e21b2eea28b90bb58355/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8708fbcae793c8a8e385c6e760d63e4b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0c9200935e4f88220a76bced76ce3a1/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3347374381607c331703524dd8e790de/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/3a24067df8478bdd84cf5ff8a0fbe520/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/4c1c42d25ca9531515d7006713dea4c4/AndroidManifest.xml:2:1-6:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:1-56:12
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:11:5-67
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:7:5-98
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:7:22-95
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:10:5-79
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:19:5-78
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:11:5-69
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:11:22-66
+application
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:13:5-54:19
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:13:5-17:19
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:13:5-17:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a844322a50972e078388c91ffd19eae2/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a844322a50972e078388c91ffd19eae2/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:24:5-19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/3fc43c4df3ee503f33f581b14cbe16b1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/3fc43c4df3ee503f33f581b14cbe16b1/AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/28d5b6635fe040f5d36970c96d38438d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/28d5b6635fe040f5d36970c96d38438d/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:24:5-34:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:29:5-46:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/be266670fee7d02c0a0a9bab2876112c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/be266670fee7d02c0a0a9bab2876112c/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/e58426779e316d26b87f37975e3182ea/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/e58426779e316d26b87f37975e3182ea/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/b25daa8bfde004cc6cbc8f8d130823d0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/b25daa8bfde004cc6cbc8f8d130823d0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/40b89459e0ba22c9dd32c4372af607b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/40b89459e0ba22c9dd32c4372af607b6/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/e742e56ab54a934e8528188aaae042e1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/e742e56ab54a934e8528188aaae042e1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/843244a5a3e6599bef465e9cf91e3013/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/843244a5a3e6599bef465e9cf91e3013/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/64a3f8269019d7425e2fe1b0d126f319/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/64a3f8269019d7425e2fe1b0d126f319/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/cd9a76501adb725080f5e65fa85d0853/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/cd9a76501adb725080f5e65fa85d0853/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dec30691f8dd0b32c7e705494baff4ac/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dec30691f8dd0b32c7e705494baff4ac/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/44f06696ad7dc16d7a9b76185ccd6ff9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/44f06696ad7dc16d7a9b76185ccd6ff9/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/7816308cf0059dc3ef825e7b04e01b45/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/7816308cf0059dc3ef825e7b04e01b45/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/2c9059d5b80201bee984b1c01e6089b5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/2c9059d5b80201bee984b1c01e6089b5/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/3a24067df8478bdd84cf5ff8a0fbe520/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/3a24067df8478bdd84cf5ff8a0fbe520/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/4c1c42d25ca9531515d7006713dea4c4/AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/4c1c42d25ca9531515d7006713dea4c4/AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:17:9-35
+	android:label
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:16:9-41
+	android:icon
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:15:9-43
+	android:allowBackup
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:18:9-40
+activity#net.kaparray.velp.utils.SplashActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:21:13-49
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:22:13-47
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:20:13-49
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:26:27-74
+activity#net.kaparray.velp.tutorial.TutorialActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:29:9-32:59
+	android:screenOrientation
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:31:13-49
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:30:13-54
+activity#net.kaparray.velp.MainActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:33:9-36:59
+	android:screenOrientation
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:35:13-49
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:34:13-41
+activity#net.kaparray.velp.Auth.AuthActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:37:9-40:59
+	android:screenOrientation
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:40:13-56
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:38:13-46
+activity#net.kaparray.velp.Auth.EmailAuthActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:41:9-44:59
+	android:screenOrientation
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:43:13-49
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:44:13-56
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:42:13-51
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:46:9-48:71
+	android:value
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:48:13-68
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:47:13-58
+activity#net.kaparray.velp.Auth.RegistrationActivity
+ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:50:9-53:68
+	android:label
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:52:13-64
+	android:theme
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:53:13-56
+	android:name
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml:51:13-54
+uses-sdk
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/55853a858d0cfbc06eed739b2ffb3ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/design-27.1.0.aar/55853a858d0cfbc06eed739b2ffb3ae9/AndroidManifest.xml:20:5-44
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/fc934ae77d77ae46749355fd8df187e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.0.aar/fc934ae77d77ae46749355fd8df187e0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a844322a50972e078388c91ffd19eae2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/a844322a50972e078388c91ffd19eae2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4dbccfebff860f86efc28d0af653468e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/cardview-v7-27.1.0.aar/4dbccfebff860f86efc28d0af653468e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:23:5-43
+MERGED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:23:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4aa9080c03c877d4e03900eae997af6c/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton:butterknife:8.8.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/butterknife-8.8.1.aar/4aa9080c03c877d4e03900eae997af6c/AndroidManifest.xml:5:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/3fc43c4df3ee503f33f581b14cbe16b1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-11.6.0.aar/3fc43c4df3ee503f33f581b14cbe16b1/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/1225ceef0a5d83b41e77e4678e3a1c95/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-11.6.0.aar/1225ceef0a5d83b41e77e4678e3a1c95/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/28d5b6635fe040f5d36970c96d38438d/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-core-11.6.0.aar/28d5b6635fe040f5d36970c96d38438d/AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:transition:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/d79571d5f62000ce41cd86cc9c63616f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/transition-27.1.0.aar/d79571d5f62000ce41cd86cc9c63616f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/295bce1f408a2e091bd7df54a7cf518a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.6.0.aar/295bce1f408a2e091bd7df54a7cf518a/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/d8313a469f0d3a8798970e2b8a406b27/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.6.0.aar/d8313a469f0d3a8798970e2b8a406b27/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:17:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/6b85b0e2c5e70a58084466b47bf210d2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-database-connection:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-11.6.0.aar/6b85b0e2c5e70a58084466b47bf210d2/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:3:5-43
+MERGED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/be266670fee7d02c0a0a9bab2876112c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.6.0.aar/be266670fee7d02c0a0a9bab2876112c/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/955d4c2e186013ef8fd2d75eac4ce817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.0.aar/955d4c2e186013ef8fd2d75eac4ce817/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/d9215a97064f953226af868d353a29bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.0.aar/d9215a97064f953226af868d353a29bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b636115cd917b812fe8dd1dd5b82754b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.0.aar/b636115cd917b812fe8dd1dd5b82754b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9431508a650d705339e4bba7c1e5241d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.0.aar/9431508a650d705339e4bba7c1e5241d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ce0e3ea8dff3ff84636a44562b0e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.0.aar/50ce0e3ea8dff3ff84636a44562b0e45/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7515a6b6cd985290574e34c9c399b800/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.0.aar/7515a6b6cd985290574e34c9c399b800/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6b94a9eb59b4fa3faa3679f36d7e679f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.0.aar/6b94a9eb59b4fa3faa3679f36d7e679f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/b14c31823abd80510c995545515172f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.0.aar/b14c31823abd80510c995545515172f1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/83c4ae13b30e0dec8d823d82caf00328/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.0.aar/83c4ae13b30e0dec8d823d82caf00328/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/e58426779e316d26b87f37975e3182ea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-maps-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-license-11.6.0.aar/e58426779e316d26b87f37975e3182ea/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/b25daa8bfde004cc6cbc8f8d130823d0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-auth-license-11.6.0.aar/b25daa8bfde004cc6cbc8f8d130823d0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/40b89459e0ba22c9dd32c4372af607b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-license-11.6.0.aar/40b89459e0ba22c9dd32c4372af607b6/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/e742e56ab54a934e8528188aaae042e1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-license-11.6.0.aar/e742e56ab54a934e8528188aaae042e1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/843244a5a3e6599bef465e9cf91e3013/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-license-11.6.0.aar/843244a5a3e6599bef465e9cf91e3013/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/64a3f8269019d7425e2fe1b0d126f319/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-license-11.6.0.aar/64a3f8269019d7425e2fe1b0d126f319/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/cd9a76501adb725080f5e65fa85d0853/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-tasks-license-11.6.0.aar/cd9a76501adb725080f5e65fa85d0853/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dec30691f8dd0b32c7e705494baff4ac/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-license-11.6.0.aar/dec30691f8dd0b32c7e705494baff4ac/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/44f06696ad7dc16d7a9b76185ccd6ff9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-license-11.6.0.aar/44f06696ad7dc16d7a9b76185ccd6ff9/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/7816308cf0059dc3ef825e7b04e01b45/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-license-11.6.0.aar/7816308cf0059dc3ef825e7b04e01b45/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/2c9059d5b80201bee984b1c01e6089b5/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-license-11.6.0.aar/2c9059d5b80201bee984b1c01e6089b5/AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87ea6cc2ae64e21b2eea28b90bb58355/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/87ea6cc2ae64e21b2eea28b90bb58355/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8708fbcae793c8a8e385c6e760d63e4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/8708fbcae793c8a8e385c6e760d63e4b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0c9200935e4f88220a76bced76ce3a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/c0c9200935e4f88220a76bced76ce3a1/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3347374381607c331703524dd8e790de/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/3347374381607c331703524dd8e790de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/3a24067df8478bdd84cf5ff8a0fbe520/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-license-11.6.0.aar/3a24067df8478bdd84cf5ff8a0fbe520/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/4c1c42d25ca9531515d7006713dea4c4/AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-database-connection-license-11.6.0.aar/4c1c42d25ca9531515d7006713dea4c4/AndroidManifest.xml:4:5-43
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kaparray/AndroidStudioProjects/Velp/app/src/main/AndroidManifest.xml
+meta-data#com.google.android.gms.version
+ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:14:9-16:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.4.4] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.4.4.aar/a528fbcd925c4affe51c8035ebd09a61/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.6.0.aar/ecafcbe584410bf87474649a8c5a231d/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:16:13-66
+	android:name
+		ADDED from [com.firebaseui:firebase-ui-database:1.1.1] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-ui-database-1.1.1.aar/da66f5cc47e5c74a18f41fd1cacf7fa8/AndroidManifest.xml:15:13-58
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.6.0.aar/de9b6e3fd421a92b1671e4e9b1d4520c/AndroidManifest.xml:24:18-63
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-maps-11.6.0.aar/a5ea34b2f388778e1fac8b48bbb72aeb/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/play-services-base-11.6.0.aar/56f622a5275d858e337d4caae8e34327/AndroidManifest.xml:19:19-85
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:27:162-184
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:27:185-208
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:27:17-104
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:27:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-impl-11.6.0.aar/d3b53a67fa13e43f27fcb12409086bfc/AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:32:16-87
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:33:7-197
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:33:148-170
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:33:171-195
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:33:91-147
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-analytics-11.6.0.aar/0681cee7528ea560e0742d7ac63f712f/AndroidManifest.xml:33:16-90
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:17-71
+permission#net.kaparray.velp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:27:22-76
+uses-permission#net.kaparray.velp.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:27:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:27:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:31:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:31:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:31:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:31:19-84
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:32:13-35:29
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE+category:name:net.kaparray.velp
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:32:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:33:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:33:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:34:27-58
+category#net.kaparray.velp
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:34:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:40:9-44:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:40:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:40:18-82
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:41:13-43:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:41:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:42:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-iid-11.6.0.aar/c5a90b08381405ed32fa615cc947de70/AndroidManifest.xml:42:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.6.0] /Users/kaparray/.gradle/caches/transforms-1/files-1.1/firebase-common-11.6.0.aar/3284e96552e120f412aab28d52dde319/AndroidManifest.xml:6:79-143
